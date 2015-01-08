@@ -1,0 +1,33 @@
+﻿生成启动时间为 1/8/2015 10:47:53 PM。
+     1>项目“C:\Users\EVA\documents\visual studio 2010\Projects\HOMEWORK final  proj\HOMEWORK final  proj\HOMEWORK final  proj.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\HOMEWORK final  proj.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\HOMEWORK final  proj.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "HOMEWORK final  proj.cpp"
+         HOMEWORK final  proj.cpp
+     1>HOMEWORK final  proj.cpp(147): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : 参见“sprintf”的声明
+     1>HOMEWORK final  proj.cpp(320): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : 参见“sprintf”的声明
+     1>HOMEWORK final  proj.cpp(915): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : 参见“sprintf”的声明
+       ResourceCompile:
+         所有输出均为最新。
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\EVA\documents\visual studio 2010\Projects\HOMEWORK final  proj\Release\HOMEWORK final  proj.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\HOMEWORK final  proj.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\EVA\documents\visual studio 2010\Projects\HOMEWORK final  proj\Release\HOMEWORK final  proj.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\EVA\documents\visual studio 2010\Projects\HOMEWORK final  proj\Release\HOMEWORK final  proj.lib" /MACHINE:X86 "Release\HOMEWORK final  proj.res"
+         "Release\HOMEWORK final  proj.obj"
+         Release\stdafx.obj
+         正在生成代码
+         已完成代码的生成
+         HOMEWORK final  proj.vcxproj -> C:\Users\EVA\documents\visual studio 2010\Projects\HOMEWORK final  proj\Release\HOMEWORK final  proj.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\EVA\documents\visual studio 2010\Projects\HOMEWORK final  proj\Release\HOMEWORK final  proj.exe;#1" /manifest "Release\HOMEWORK final  proj.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Release\HOMEWORK final  proj.unsuccessfulbuild”。
+         正在对“Release\HOMEWORK final  proj.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\EVA\documents\visual studio 2010\Projects\HOMEWORK final  proj\HOMEWORK final  proj\HOMEWORK final  proj.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.78

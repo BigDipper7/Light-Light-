@@ -1,0 +1,40 @@
+﻿生成启动时间为 1/8/2015 9:23:59 PM。
+     1>项目“C:\Users\EVA\documents\visual studio 2010\Projects\HOMEWORK final  proj\HOMEWORK final  proj\HOMEWORK final  proj.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\HOMEWORK final  proj.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\HOMEWORK final  proj.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "HOMEWORK final  proj.cpp"
+         HOMEWORK final  proj.cpp
+     1>c:\users\eva\documents\visual studio 2010\projects\homework final  proj\homework final  proj\homework final  proj.cpp(112): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(249) : 参见“freopen”的声明
+     1>c:\users\eva\documents\visual studio 2010\projects\homework final  proj\homework final  proj\homework final  proj.cpp(137): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>c:\users\eva\documents\visual studio 2010\projects\homework final  proj\homework final  proj\homework final  proj.cpp(310): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>c:\users\eva\documents\visual studio 2010\projects\homework final  proj\homework final  proj\homework final  proj.cpp(905): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(371) : 参见“sprintf”的声明
+       ResourceCompile:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\HOMEWORK final  proj.res" "HOMEWORK final  proj.rc" 
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\EVA\documents\visual studio 2010\Projects\HOMEWORK final  proj\Debug\HOMEWORK final  proj.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\HOMEWORK final  proj.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\EVA\documents\visual studio 2010\Projects\HOMEWORK final  proj\Debug\HOMEWORK final  proj.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\EVA\documents\visual studio 2010\Projects\HOMEWORK final  proj\Debug\HOMEWORK final  proj.lib" /MACHINE:X86 "Debug\HOMEWORK final  proj.res"
+         "Debug\HOMEWORK final  proj.exe.embed.manifest.res"
+         "Debug\HOMEWORK final  proj.obj"
+         Debug\Sence.obj
+         Debug\stdafx.obj
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\HOMEWORK final  proj.exe.embed.manifest" /manifest "Debug\HOMEWORK final  proj.exe.intermediate.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         HOMEWORK final  proj.vcxproj -> C:\Users\EVA\documents\visual studio 2010\Projects\HOMEWORK final  proj\Debug\HOMEWORK final  proj.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\HOMEWORK final  proj.unsuccessfulbuild”。
+         正在对“Debug\HOMEWORK final  proj.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\EVA\documents\visual studio 2010\Projects\HOMEWORK final  proj\HOMEWORK final  proj\HOMEWORK final  proj.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.10
